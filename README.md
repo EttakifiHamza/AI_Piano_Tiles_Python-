@@ -1,8 +1,15 @@
 # AI_Piano_Tiles_Python-
 # Image-Recognition كيفية جعل الحاسوب ان يلعب لعبة بيانو شهيرة    :
 قم بتثبيت هذه المكتبات    
-pip install pywin32 \n
-pip install keyboard pip 
+pip install pywin32 
+
+
+
+pip install keyboard pip
+
+
+
+
 install pyautogui
 pip install opencv-python    
 :   يلي المكتبات المراد تنصيبها في بداية البرامج   
