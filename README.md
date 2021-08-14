@@ -5,17 +5,25 @@ pip install pywin32
 
 
 
-pip install keyboard pip
+pip install keyboard
 
 
+pip install pyautogui
 
 
-install pyautogui
-pip install opencv-python    
+pip install opencv-python 
+
+
 :   يلي المكتبات المراد تنصيبها في بداية البرامج   
 from pyautogui import *
+
+
 import pyautogui 
+
 import time 
+
 import keyboard
+
 import random 
+
 import win32api, win32con
